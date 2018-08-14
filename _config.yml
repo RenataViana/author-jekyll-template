@@ -1,20 +1,19 @@
 # ----
 # Site
 
-title: Alice's Adventures In Wonderland
-url: "https://adored-walnut.cloudvent.net/"
+title: Nascidos do Abismo
+url: 
 baseurl:
 google_analytics_key:
 logo: /siteicon.png
 description: Book template for Jekyll.
 author:
-  name: Lewis Carroll
+  name: Renata Viana
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Author Template
+  name: 
   links:
-    - https://github.com/CloudCannon/author-jekyll-template
 
 # -----
 # Build
